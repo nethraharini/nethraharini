@@ -17,7 +17,7 @@
 ##  Skills
 
 - **Languages**: Python, Java, SQL, JavaScript, MongoDB  
-- **Technologies**: Flask, React, Docker, TensorFlow, Sklearn  
+- **Technologies**: Flask, React, Docker, TensorFlow, Sklearn
 - **Tools**: Git, GitHub, Excel, PowerBI  
 
 ---
