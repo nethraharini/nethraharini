@@ -1,102 +1,68 @@
-### 👋 Hello! I'm Nethra Harini M
+<h1 align="center">Hey there, I'm Nethra Harini 👋</h1>
 
-- Postgraduate student in Computer Applications from Coimbatore Institute of Technology  
-- Passionate full stack developer with a love for building impactful software  
-- Exploring DSA, AI/ML, and scalable systems  
-- Consistently upskilling and participating in tech events  
-- Open to software engineering and internship opportunities
+<p align="center">
+  <i>Tech enthusiast, creative coder, and future FAANG dreamer ✨</i>
+</p>
 
 ---
 
-### 💻 Skills
+## 👩‍💻 About Me
 
-**Languages:**  
-Python, Java, SQL, JavaScript, MongoDB  
-
-**Frontend:**  
-HTML, CSS, Bootstrap, React  
-
-**Backend:**  
-Flask, Node.js, Express.js  
-
-**ML/AI Tools:**  
-TensorFlow, scikit-learn, OpenCV  
-
-**Deployment & Tools:**  
-Git, GitHub, Docker, PowerBI, Excel  
+- 🧠 I'm currently pursuing my Master's in Computer Applications at CIT, Coimbatore.
+- 🚀 Passionate about building meaningful tech projects and solving real-world problems.
+- 🌱 Learning every day: Java, Python, DSA, and full-stack development.
+- 🎯 Focused on mastering the skills that matter for top-tier tech roles.
 
 ---
 
-### 🎯 Areas of Interest
+## 🛠️ Skills
 
-- Full Stack Development  
-- Machine Learning & AI  
-- Scalable Web Applications  
-- System Design & Architecture
+- **Languages**: Python, Java, SQL, JavaScript, MongoDB  
+- **Technologies**: Flask, React, Docker, TensorFlow, Sklearn  
+- **Tools**: Git, GitHub, Excel, PowerBI  
 
 ---
 
-### 📜 Certifications
+## 📂 Projects
 
-- [Python Basic – HackerRank](https://www.hackerrank.com/certificates/...)  
-- [SQL Basic – HackerRank](https://www.hackerrank.com/certificates/...)  
+- **EchoVerse** | Node.js, React, Express, Socket.io  
+  Real-time Discord-like chat app for gamers. Multi-room chat, built with Socket.io & React.
+
+- **WasteLinkIt** | Machine Learning (LSTM), TensorFlow  
+  Waste management platform predicting waste demands using LSTM models.
+
+- **Project Shield** | Computer Vision, TensorFlow, OpenCV  
+  Anomaly detection in video surveillance with automatic alerts.
+
+---
+
+## 🏅 Certifications
+
+- Python & SQL – HackerRank  
 - Cloud Computing – NPTEL  
-- Data Visualization (PowerBI, Tableau) – Tata  
-- Oracle Database Associate – Oracle
+- Data Visualization (Tableau, PowerBI) – Tata  
+- Oracle Database Associate – Oracle  
 
 ---
 
-### 📂 Projects
+## 📬 Contact Me
 
-**🔹 EchoVerse**  
-*Node.js, Express.js, React, Socket.io*  
-> Real-time Discord-style chat app for gamers with multiple server rooms and live communication.
-
-**🔹 WasteLinkIt**  
-*TensorFlow, LSTM, Bootstrap*  
-> ML-based waste marketplace with demand forecasting and pre-booking for recyclables.
-
-**🔹 Project Shield**  
-*OpenCV, Python, TensorFlow*  
-> Detects violence or harassment in videos with real-time alert system to authorities.
+- ✉️ nethraharini0904@gmail.com  
+- 📱 7092723866  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nethra-harini-8b500024a/) | [GitHub](https://github.com/nethraharini) | [LeetCode](https://leetcode.com/u/nethra0904/) | [HackerRank](https://www.hackerrank.com/profile/nethraharini0904)
 
 ---
 
-### 🏆 Participations
+## 📊 My GitHub Stats
 
-**Ideathon – Oct 2024**  
-🚌 ECEG: Live public transport tracking solution.
-
-**Cryptera 2025 – Hackathon**  
-🚀 Explored system design & built real-time collaborative apps.
-
----
-
-### 🎓 Education
-
-**🎓 Master of Computer Applications (2023–2025)**  
-Coimbatore Institute of Technology, CGPA: 8.05  
-
-**🎓 Bachelor of Computer Applications (2021–2024)**  
-P.S.G College of Arts and Science, CGPA: 7.9  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethraharini&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethraharini&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
-### 📬 Contact Me
-
-- 📧 nethraharini0904@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nethra-harini-8b500024a/)  
-- 💻 [GitHub](https://github.com/nethraharini)  
-- 🧠 [LeetCode](https://leetcode.com/u/nethra0904/) | [HackerRank](https://www.hackerrank.com/profile/nethraharini0904)
+> *"I’m here to grow, learn, and leave my mark in the tech world — one project at a time."*
 
 ---
 
-### 📊 My Stats
-
-[![Nethra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethraharini&show_icons=true&theme=radical)](https://github.com/nethraharini)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethraharini&layout=compact&theme=radical)](https://github.com/nethraharini)
-
----
-
-> ⚡ *Fueled by curiosity, driven by code.*
