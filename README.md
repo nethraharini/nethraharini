@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Nethra Harini 👋</h1>
+<h1 align="center">Hey there, I'm Nethra Harini </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nethraharini&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
